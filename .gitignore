@@ -1,2 +1,25 @@
-/myenv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
 .env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+myenv/
+venv/
+env/
+
+# macOS specific files
+.DS_Store
+
+# Logs
+*.log
+
+# Ignore any system-wide config files
+.vscode/
+.idea/
